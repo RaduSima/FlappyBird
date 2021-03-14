@@ -1,0 +1,8 @@
+﻿  render.c
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(29,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(41,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(45,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(52,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simar\Desktop\Projects\Flappy Bird C\render.c(67,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Flappy Bird C.vcxproj -> C:\Users\simar\Desktop\Projects\Flappy Bird C\x64\Debug\Flappy Bird C.exe

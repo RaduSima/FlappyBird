@@ -1,0 +1,2 @@
+C:\Users\simar\Desktop\Projects\Flappy Bird C\x64\Debug\Flappy Bird C.exe
+C:\Users\simar\Desktop\Projects\Flappy Bird C\x64\Debug\Flappy Bird C.pdb
